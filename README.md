@@ -24,7 +24,7 @@ Farklı özel anahtarlar (Private Keys) işaret edilerek sunucuya root kullanıc
 Bağlantı sürecini pratikleştirmek amacıyla yerel makinedeki `~/.ssh/config` dosyası şu şekilde yapılandırılmıştır:
 
     Host sunucum
-        HostName 188.166.164.249
+        HostName SUNUCU_IP
         User root
         IdentityFile ~/.ssh/key_devops
 
