@@ -38,3 +38,5 @@ Sunucuya yönelik kaba kuvvet saldırılarını engellemek amacıyla Fail2Ban ku
 * Asimetrik şifreleme altyapısı, yetki sınırlandırmaları ve anahtar yönetimi güvenliği.
 * SSH config mekanizması ile terminal üretkenliğinin artırılması.
 * Fail2Ban ile proaktif sunucu güvenliği.
+
+https://roadmap.sh/projects/static-site-server
