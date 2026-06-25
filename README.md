@@ -39,4 +39,4 @@ Sunucuya yönelik kaba kuvvet saldırılarını engellemek amacıyla Fail2Ban ku
 * SSH config mekanizması ile terminal üretkenliğinin artırılması.
 * Fail2Ban ile proaktif sunucu güvenliği.
 
-https://roadmap.sh/projects/static-site-server
+https://roadmap.sh/projects/ssh-remote-server-setup
